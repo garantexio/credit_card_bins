@@ -8,6 +8,16 @@
     alpha_2: RU
     alpha_3: RUS
     name: Russian Federation
+'220070':
+  bin: '220070'
+  brand: NSPK MIR
+  type: DEBIT
+  category: PREMIUM
+  issuer: 'TINKOFF'
+  country:
+    alpha_2: RU
+    alpha_3: RUS
+    name: Russian Federation
 '220077':
   bin: '220077'
   brand: NSPK MIR
